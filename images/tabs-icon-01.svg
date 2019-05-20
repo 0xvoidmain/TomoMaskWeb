@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg  width="56" height="56" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	  style="enable-background:new 0 0 56 56;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:url(#SVGID_4_);}
+	.st4{fill:url(#SVGID_5_);}
+</style>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-1823.8204" y1="848.2125" x2="-1822.8204" y2="847.2883" gradientTransform="matrix(56 0 0 -56 102135 47503)">
+		<stop  offset="0" style="stop-color:#C3FFF4"/>
+		<stop  offset="1" style="stop-color:#C7E5FF"/>
+	</linearGradient>
+	<path class="st0" d="M0,0h56v56H0V0z"/>
+</g>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="14.4022" y1="1688.416" x2="23.9604" y2="1688.416" gradientTransform="matrix(1 0 0 1 0 -1670)">
+	<stop  offset="0" style="stop-color:#006DCC"/>
+	<stop  offset="1" style="stop-color:#33A0FF"/>
+</linearGradient>
+<rect x="14.4" y="13.6" class="st1" width="9.6" height="9.6"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="14.4022" y1="1704.3265" x2="24.9357" y2="1704.3265" gradientTransform="matrix(1 0 0 1 0 -1670)">
+	<stop  offset="0" style="stop-color:#006DCC"/>
+	<stop  offset="1" style="stop-color:#33A0FF"/>
+</linearGradient>
+<circle class="st2" cx="19.7" cy="34.3" r="5.3"/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="-2851.7913" y1="1270.5369" x2="-2841.4619" y2="1270.5369" gradientTransform="matrix(6.123234e-17 -1 1 6.123234e-17 -1233.3333 -2812.3333)">
+	<stop  offset="0" style="stop-color:#006DCC"/>
+	<stop  offset="1" style="stop-color:#33A0FF"/>
+</linearGradient>
+<polygon class="st3" points="32.8,31.8 32.8,36.9 37.2,39.5 41.6,36.9 41.6,31.8 37.2,29.2 "/>
+<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="30.8264" y1="1688.416" x2="41.6025" y2="1688.416" gradientTransform="matrix(1 0 0 1 0 -1670)">
+	<stop  offset="0" style="stop-color:#006DCC"/>
+	<stop  offset="1" style="stop-color:#33A0FF"/>
+</linearGradient>
+<polygon class="st4" points="36.2,13.7 30.9,23.1 41.5,23.1 "/>
+</svg>
